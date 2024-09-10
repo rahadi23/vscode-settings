@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    // Theming
+    "Catppuccin.catppuccin-vsc-icons",
+    "antfu.theme-vitesse",
+    "antfu.icons-carbon",
+
+    // General
+    "GitHub.copilot",
+    "eamodio.gitlens",
+
+    // Editor
+    "aaron-bond.better-comments",
+    "naumovs.color-highlight",
+    "usernamehw.errorlens",
+
+    // Explorer
+    "antfu.file-nesting",
+
+    // Javascript/Typescript
+    "YoavBls.pretty-ts-errors",
+    "BriteSnow.vscode-toggle-quotes",
+
+    // React
+    "dsznajder.es7-react-js-snippets"
+  ]
+}
